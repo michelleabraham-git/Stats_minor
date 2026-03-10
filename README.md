@@ -1,12 +1,16 @@
-This repository contains statistical and econometric analyses completed as part of my Statistics minor at Azim Premji University. 
+Stats Minor – Statistical & Econometric Analysis
 
-Tools
-R, Python, econometric modelling
+This repository contains statistical and econometric analyses completed as part of my Statistics minor at Azim Premji University.
 
-Projects included:
-regression analysis (Linear, Ridge, Lasso)
-hypothesis testing
-data visualization
-Regularisation and cross validation
-Optimisation
-Bootstrapping
+Methods implemented:
+• Linear regression
+• Ridge and Lasso regression
+• Polynomial regression
+• Bootstrapping and permutation testing
+• Cross-validation and regularization
+• Optimization techniques
+
+Tools:
+Python, R, econometric modelling
+
+The notebooks demonstrate applications of statistical learning methods for economic data analysis and model evaluation.
