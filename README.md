@@ -1,1 +1,1 @@
-This file contains notes and code from the statisics minor course 
+This repository contains statistical and econometric analyses completed as part of my Statistics minor at Azim Premji University. 
